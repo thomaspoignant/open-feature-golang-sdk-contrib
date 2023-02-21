@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/thomaspoignant/open-feature-golang-sdk-contrib/compare/providers/from-env-v0.1.1...providers/from-env/v0.1.2) (2023-02-21)
+
+
+### Bug Fixes
+
+* tidy workspaces ([#97](https://github.com/thomaspoignant/open-feature-golang-sdk-contrib/issues/97)) ([c71a5ec](https://github.com/thomaspoignant/open-feature-golang-sdk-contrib/commit/c71a5ec7686ec0572bb47f17dbca7e0ec48252d7))
+
 ## [0.1.1](https://github.com/open-feature/go-sdk-contrib/compare/providers/from-env-v0.1.0...providers/from-env/v0.1.1) (2023-01-26)
 
 
